@@ -2,6 +2,8 @@
 
 #### React Native 模仿网易云音乐手机客户端，兼容安卓和IOS两个平台。
 
+> GitHub 完整源码地址[https://github.com/yezihaohao/NeteaseCloudMusic](https://github.com/yezihaohao/NeteaseCloudMusic)
+
 老规矩，先上图~😄
 
 #### 总览 
